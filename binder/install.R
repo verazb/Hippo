@@ -48,6 +48,6 @@ install.packages('rdrobust')
 install.packages('TeachingDemos')
 install.packages("rdd")
 
-# Quantile
-install.packages("quantreg")
-install.packages("Counterfactual")
+# # Quantile
+# install.packages("quantreg")
+# install.packages("Counterfactual")
